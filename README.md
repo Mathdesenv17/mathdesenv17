@@ -1,5 +1,6 @@
-<img align="center" alt="Coding" width="400" src="img/banner.png">
-
+<p align="center">
+<img alt="Coding" width="400" src="img/banner.png">
+</P>
 
 <!--
 **Mathdesenv17/mathdesenv17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
