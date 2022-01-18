@@ -1,6 +1,15 @@
-<p align="center">
-<img alt="Coding" width="400" src="img/banner.png">
-</P>
+[![MasterHead](img/banner.png)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)  |  ![]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+)
+
+<img src="https://img.icons8.com/ios/50/000000/link--v1.png"/>
+
+<img src="https://img.icons8.com/ios/50/000000/link--v1.png"/>
 
 <!--
 **Mathdesenv17/mathdesenv17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
