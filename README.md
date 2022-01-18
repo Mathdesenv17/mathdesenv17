@@ -16,10 +16,14 @@ Stats  |  Streaks
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</p>
 
-
-<p align="center"> Meu S.O do dia a dia </p>
-
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+ |**Meu S.O do dia a dia**|
+ :-----:
+|![Linux Mint]https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white|
+<center>
+|                                                    Redes Sociais                                                   	|
+|:------------------------------------------------------------------------------------------------------------------:	|
+| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 	|
+</center>
 
 <p align="center"> Linguagens que tenho conhecimento </p>
 
